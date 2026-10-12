@@ -1,0 +1,3 @@
+[submodule "predictive_analytics_stplus"]
+	path = predictive_analytics_stplus
+	url = https://github.com/nilsgumpfer/predictive_analytics_stplus.git
